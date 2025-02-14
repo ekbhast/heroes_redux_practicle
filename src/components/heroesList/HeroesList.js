@@ -10,6 +10,7 @@ import Spinner from '../spinner/Spinner';
 // При клике на "крестик" идет удаление персонажа из общего состояния
 // Усложненная задача:
 // Удаление идет и с json файла при помощи метода DELETE
+// посмотреть можно в документации json server
 
 const HeroesList = () => {
     const {heroes, heroesLoadingStatus} = useSelector(state => state);
