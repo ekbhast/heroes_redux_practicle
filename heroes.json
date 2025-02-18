@@ -13,10 +13,10 @@
       "element": "wind"
     },
     {
-      "id": "6879eae8-d035-4c24-a153-aef659f1d4ed",
-      "name": "Алексей",
-      "description": "Писать код",
-      "element": "wind"
+      "id": 3,
+      "name": "Морской герой",
+      "description": "Как аквамен, но не из DC",
+      "element": "water"
     }
   ],
   "filters": [
